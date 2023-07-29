@@ -45,7 +45,7 @@ Contributing to the Cafe Billing Application project on GitHub is welcome and ap
 2. **Clone the Fork**: Clone your forked repository to your local machine using the following command (replace `<your-username>` with your GitHub username):
 
    ```
-   git clone https://github.com/<your-username>/Cafe-Billing-Application.git
+   git clone https://github.com/rsrahulsalunkhe/CafeBillingApplication.git
    ```
 
 3. **Create a Branch**: Create a new branch to work on your changes. It's a good practice to give your branch a descriptive name related to the feature or bug fix you're working on.
@@ -82,7 +82,7 @@ If you want to get a copy of the Cafe Billing Application project on your local 
 1. **Clone the Repository**: Open your terminal or command prompt and use the following command to clone the repository:
 
    ```
-   git clone https://github.com/OpenAI/Cafe-Billing-Application.git
+   git clone https://github.com/rsrahulsalunkhe/CafeBillingApplication.git
    ```
 
 2. **Navigate to the Directory**: Change your current working directory to the newly cloned repository:
